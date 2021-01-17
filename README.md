@@ -10,4 +10,4 @@ To ensure the code is maintainable, test driven development will be utilised als
 
 ### Example Output
 
-![Output Example](Assets\output-capture.JPG)
+[Output Example](Assets\output-capture.JPG)
