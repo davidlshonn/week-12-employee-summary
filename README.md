@@ -6,8 +6,8 @@ To ensure the code is maintainable, test driven development will be utilised als
 
 ## Application Walk-Through
 
-[<img src="./assets\app-capture.JPG">](https://drive.google.com/file/d/1grYjwergQfQwt6IM0hF-JWFhomQAFyCN/view)
+[<img src="Assets\app-capture.JPG">](https://drive.google.com/file/d/1grYjwergQfQwt6IM0hF-JWFhomQAFyCN/view)
 
 ### Example Output
 
-![Output Example](./assets\output-capture.JPG)
+![Output Example](Assets\output-capture.JPG)
